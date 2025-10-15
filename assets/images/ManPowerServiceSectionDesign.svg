@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="422.604" height="451.669" viewBox="0 0 422.604 451.669">
+  <g id="ManPowerServiceSectionDesign" transform="translate(-206 -1908.33)">
+    <g id="Rectangle_8" data-name="Rectangle 8" transform="translate(206 1954.243)" fill="none" stroke="#363795" stroke-width="8">
+      <rect width="403.07" height="383.799" rx="45" stroke="none"/>
+      <rect x="4" y="4" width="395.07" height="375.799" rx="41" fill="none"/>
+    </g>
+    <g id="Group_1" data-name="Group 1" transform="translate(213.335 1908.33)">
+      <path id="Path_20" data-name="Path 20" d="M91.354,227.743,51.247,158.266,117.011,44.428H248.539l65.7,113.838-40.107,69.478,25.657,44.428,65.764-113.905L274.129,0H91.354L0,158.266,65.764,272.171l25.59-44.428Z" transform="translate(238.046) rotate(61)" fill="#363795"/>
+      <path id="Path_23" data-name="Path 23" d="M168.059,0H56.082L0,96.989l56.082,96.989H168.059l55.988-96.989Z" transform="translate(78.482 135.063) rotate(2)" fill="#d2a12a"/>
+    </g>
+    <g id="muscle-svgrepo-com" transform="translate(343.061 2077.108)">
+      <path id="Path_29" data-name="Path 29" d="M54.007,95.291a32.883,32.883,0,1,1,62.934,19.029,5.642,5.642,0,0,1-5.392,3.794H26.586a22.823,22.823,0,0,1-22.38-27.3L21.57,4H55.8L67.215,23.97,42.766,41.458l-6.933-8.929" transform="translate(-3.756 -4)" fill="none" stroke="#363795" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="8"/>
+      <path id="Path_30" data-name="Path 30" d="M17.44,17.13,30.449,65.258" transform="translate(21.599 20.328)" fill="none" stroke="#363795" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="8"/>
+    </g>
+  </g>
+</svg>
