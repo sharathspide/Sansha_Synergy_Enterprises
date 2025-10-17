@@ -40,9 +40,9 @@
     </header>
     <section class="Landing-section">
         <div class="container">
-            <div class="landing-img">
+            <!-- <div class="landing-img">
                 <img src="./assets/images/HeroSectionBGDesign.svg" alt="Design image for landing page">
-            </div>
+            </div> -->
             <div class="landing-text">
                 <h1>Sansha Synergy</h1>
                 <br>
@@ -104,8 +104,29 @@
             </div>
         </div>
     </section>
-    <section class="Contact" id="Contact">
+    <section class="contact" id="contact">
         <!-- Contact form will come here if working will be moved to an individual page for better performance-->
+        <div class="container">
+            <div class="section-header">
+                <h1>contact</h1>
+                <h6> let's work together</h6>
+                <form action="">
+                    <label for="name">Name: </label>
+                    <input type="text" id="name" name="name" placeholder="Enter your name..." required>
+                    <label for="email">email: </label>
+                    <input type="email" id="email" name="email" placeholder="Enter your email..." required>
+                    <label for="services">Services: </label>
+                    <select name="services" id="input_services">
+                        <option value="manpower">Man Power</option>
+                        <option value="growth">Growth</option>
+                        <option value="investment">Investment</option>
+                    </select>
+                    <label for="subject">subject: </label>
+                    <textarea id="subject" name="subject" placeholder="Write something..." cols="10" rows="10" style="height:200px" required></textarea>
+                    <input type="submit" value="Submit" class="btn">
+                </form>
+            </div>
+        </div>
     </section>
     <footer class="footer">
         <div class="quick-link-container">
@@ -124,15 +145,25 @@
                 </div>
             </div>
             <div class="quicklink-center-container">
-                <h3>quick links</h3>
-                <nav class="links">
-                    <ul class="nav-list">
-                        <li><a href="./index.html" class="nav-link">Home</a></li>
-                        <li><a href="#about">About Us</a></li>
-                        <li><a href="#services">Services</a></li>
-                        <li><a href="#contact">Contact</a></li>
-                    </ul>
-                </nav>
+                <div class="quicklink-center-top">
+                    <h3>quick links</h3>
+                    <nav class="links">
+                        <ul class="nav-list">
+                            <li><a href="./index.html" class="nav-link">Home</a></li>
+                            <li><a href="#about">About Us</a></li>
+                            <li><a href="#services">Services</a></li>
+                            <li><a href="#contact">Contact</a></li>
+                        </ul>
+                    </nav>
+                </div>
+                <div class="quicklink-center-bottom">
+                    <div class="socialmedia-links">
+                        <h3>follow us</h3>
+                        <a href="#"><img src="./assets/images/FacebookLinkFooterDesign.svg" alt="Facebook Icon"></a>
+                        <a href="#"><img src="./assets/images/InstagramlinkFooterDesign.svg" alt="Instagram Icon"></a>
+                        <a href="#"><img src="./assets/images/WhatsAppLinkFooterDesign.svg" alt="LinkedIn Icon"></a>
+                    </div>
+                </div>
             </div>
             <div class="quicklink-right-container">
                 <div class="services-quicklink">
