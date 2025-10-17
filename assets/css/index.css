@@ -1,0 +1,44 @@
+/*global*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 10px;
+    scroll-behavior: smooth;
+    font-family: 'Arial', sans-serif;
+    color: #363795;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    background-image: url("../images/HeroSectionBGDesign.svg") no-repeat left fixed;
+    background-size: cover;
+}
+
+a{
+    text-decoration: none;
+    color: #363795;
+}
+
+p{
+    font-size: 1.8rem;
+    font-weight: 400;
+}
+img{
+    width: 100%;
+    max-width: 100%;
+}
+/*reusable*/
+
+/*header*/
+
+/*about*/
+
+/*services*/
+
+/*sansha*/
